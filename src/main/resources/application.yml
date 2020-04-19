@@ -1,0 +1,8 @@
+camunda.bpm:
+  admin-user:
+    id: chintan
+    password: cpm
+    firstName: Chintan
+    lastName: Mangukiya
+  filter:
+    create: All tasks
